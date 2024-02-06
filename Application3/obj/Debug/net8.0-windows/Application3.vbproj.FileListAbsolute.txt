@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Application3\bin\Debug\net8.0-windows\Application3.exe
+C:\Users\ADMIN\source\repos\Application3\bin\Debug\net8.0-windows\Application3.deps.json
+C:\Users\ADMIN\source\repos\Application3\bin\Debug\net8.0-windows\Application3.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Application3\bin\Debug\net8.0-windows\Application3.dll
+C:\Users\ADMIN\source\repos\Application3\bin\Debug\net8.0-windows\Application3.pdb
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.Form1.resources
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.AssemblyInfo.vb
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.dll
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\refint\Application3.dll
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.pdb
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\Application3.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Application3\obj\Debug\net8.0-windows\ref\Application3.dll

@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\Assignment2_A2\bin\Debug\net8.0-windows\Assignment2_A2.exe
+C:\Users\ADMIN\source\repos\Assignment2_A2\bin\Debug\net8.0-windows\Assignment2_A2.deps.json
+C:\Users\ADMIN\source\repos\Assignment2_A2\bin\Debug\net8.0-windows\Assignment2_A2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Assignment2_A2\bin\Debug\net8.0-windows\Assignment2_A2.dll
+C:\Users\ADMIN\source\repos\Assignment2_A2\bin\Debug\net8.0-windows\Assignment2_A2.pdb
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.Form1.resources
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.Resources.resources
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.AssemblyInfo.vb
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.dll
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\refint\Assignment2_A2.dll
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.pdb
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\Assignment2_A2.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Assignment2_A2\obj\Debug\net8.0-windows\ref\Assignment2_A2.dll
